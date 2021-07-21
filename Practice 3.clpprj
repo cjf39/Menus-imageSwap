@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\Users\carlo\Desktop\Practice 3\Practice 3.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/Users/carlo/Desktop/Practice 3]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/Users/carlo/Desktop/Practice 3]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\Users\carlo\Desktop\Practice 3\index.html"/>
+  <file name="C:\Users\carlo\Desktop\Practice 3\index.css"/>
+  <file name="C:\Users\carlo\Desktop\Practice 3\Normalize.css"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.11"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file crc="1625583859492" name="C:\Users\carlo\Desktop\Practice 3\toobin.html"/>
+  <file crc="1602033237000" name="C:\Users\carlo\Desktop\Practice 3\sorkin.html"/>
+  <file crc="1625592649980" name="C:\Users\carlo\Desktop\Practice 3\orderListPractice.html"/>
+  <file crc="1418742088000" name="C:\Users\carlo\Desktop\Practice 3\Normalize.css"/>
+  <file crc="1625673424356" name="C:\Users\carlo\Desktop\Practice 3\index.html"/>
+  <file crc="1625673683994" name="C:\Users\carlo\Desktop\Practice 3\index.css"/>
+  <file crc="1625593341632" name="C:\Users\carlo\Desktop\Practice 3\FontFamilies.html"/>
+  <file crc="1625586240034" name="C:\Users\carlo\Desktop\Practice 3\chua.html"/>
+ </filescache>
+</project>
